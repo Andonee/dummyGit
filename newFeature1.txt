@@ -3,4 +3,5 @@ And some content on feature branch.
 This is not a hotfix!
 Kopytko
 Feature4
+Feature3
 feature5
