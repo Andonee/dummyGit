@@ -1,3 +1,5 @@
 Awesome new feature!
 And some content on feature branch.
 This is not a hotfix!
+Kopytko
+Feature4
