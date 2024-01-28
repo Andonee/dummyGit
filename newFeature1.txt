@@ -1,0 +1,2 @@
+And some content on feature branch.
+This is not a hotfix!
